@@ -1,4 +1,15 @@
-h1{
-    color:red;
-    
-}
+#numeMagazin {
+   padding-top: 0.5cm;
+ }
+ #miereCuNuci{
+     padding-bottom: 0.72cm;
+ }
+ #textMiereCuNuci{
+    padding-bottom: 0.67cm;
+ }
+ #textMiereCuCatina{
+    padding-bottom: 0.67cm;
+ }
+ body{
+    background-image: url("https://img3.stockfresh.com/files/d/djmilic/m/82/7761067_stock-photo-black-and-white-honeycomb-abstract-background-3d.jpg");;
+ }

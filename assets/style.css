@@ -18,3 +18,7 @@
  .textItalic {
     font-style: italic;
 }
+.baraStanga{
+    position: fixed;
+    width: 20%;
+    }

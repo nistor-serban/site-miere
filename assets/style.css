@@ -13,3 +13,8 @@
  body{
     background-image: url("https://img3.stockfresh.com/files/d/djmilic/m/82/7761067_stock-photo-black-and-white-honeycomb-abstract-background-3d.jpg");;
  }
+ .text{margin-bottom: 1em;}
+
+ .textItalic {
+    font-style: italic;
+}
